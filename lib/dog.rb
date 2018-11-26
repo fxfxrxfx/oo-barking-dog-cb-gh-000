@@ -5,7 +5,7 @@ class Dog
   end
 
   def name(name)
-    return name
+    return @name
   end
 
   def bark
